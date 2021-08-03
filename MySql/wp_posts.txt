@@ -1,0 +1,13 @@
+"1";"1";"2018-08-12 22:49:12";"2018-08-12 22:49:12";"Welcome to WordPress. This is your first post. Edit or delete it, then start writing!";"Hello world!";"";"publish";"open";"open";"";"hello-world";"";"";"2018-08-12 22:49:12";"2018-08-12 22:49:12";"";"0";"http://192.168.206.131/wordpress/?p=1";"0";"post";"";"1"
+"2";"1";"2018-08-12 22:49:12";"2018-08-12 22:49:12";"This is an example page. It's different from a blog post because it will stay in one place and will show up in your site navigation (in most themes). Most people start with an About page that introduces them to potential site visitors. It might say something like this:
+
+<blockquote>Hi there! I'm a miner by day, aspiring actor by night, and this is my website. I live in Kalgoorlie, have a great dog named Red, and I like yabbies. (And gettin' a tan.)</blockquote>
+
+...or something like this:
+
+<blockquote>The XYZ Doohickey Company was founded in 1971, and has been providing quality doohickeys to the public ever since. Located in Gotham City, XYZ employs over 2,000 people and does all kinds of awesome things for the Gotham community.</blockquote>
+
+As a new WordPress user, you should go to <a href=""http://192.168.206.131/wordpress/wp-admin/"">your dashboard</a> to delete this page and create new pages for your content. Have fun!";"Sample Page";"";"publish";"closed";"open";"";"sample-page";"";"";"2018-08-12 22:49:12";"2018-08-12 22:49:12";"";"0";"http://192.168.206.131/wordpress/?page_id=2";"0";"page";"";"0"
+"4";"1";"2018-08-13 01:48:31";"0000-00-00 00:00:00";"flag3{afc01ab56b50591e7dccf93122770cd2}";"flag3";"";"draft";"open";"open";"";"";"";"";"2018-08-13 01:48:31";"2018-08-13 01:48:31";"";"0";"http://raven.local/wordpress/?p=4";"0";"post";"";"0"
+"5";"1";"2018-08-12 23:31:59";"2018-08-12 23:31:59";"flag4{715dea6c055b9fe3337544932f2941ce}";"flag4";"";"inherit";"closed";"closed";"";"4-revision-v1";"";"";"2018-08-12 23:31:59";"2018-08-12 23:31:59";"";"4";"http://raven.local/wordpress/index.php/2018/08/12/4-revision-v1/";"0";"revision";"";"0"
+"7";"2";"2018-08-13 01:48:31";"2018-08-13 01:48:31";"flag3{afc01ab56b50591e7dccf93122770cd2}";"flag3";"";"inherit";"closed";"closed";"";"4-revision-v1";"";"";"2018-08-13 01:48:31";"2018-08-13 01:48:31";"";"4";"http://raven.local/wordpress/index.php/2018/08/13/4-revision-v1/";"0";"revision";"";"0"
