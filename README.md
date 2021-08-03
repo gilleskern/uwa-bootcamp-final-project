@@ -29,6 +29,7 @@ flag2{fc3fd58dcdad9ab23faca6e9a36e581c}
 michael@target1:/var/www$ 
 
 
-Link to Google Drive
-https://drive.google.com/drive/folders/1S1j9FdTZ6xXmU5GwXbuY8FzfTz_lmHrd?usp=sharing
+mysql> (select * from wp_users INTO OUTFILE '/home/michael/wp_users.txt' FIELDS ENCLOSED BY '"' TERMINATED BY ';' ESCAPED BY '"' LINES TERMINATED BY '\r\n');
+
+
 
