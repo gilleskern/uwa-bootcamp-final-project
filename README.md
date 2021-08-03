@@ -1,6 +1,6 @@
 # uwa-bootcamp-final-project
 /** flag1  **/
-ichael@target1:/var/www/html$ grep -rie flag[1-9] *
+michael@target1:/var/www/html$ grep -rie flag[1-9] *
 service.html:                   <!-- flag1{b9bbcb33e11b80be759c4e844862482d} -->
 wordpress/wp-includes/ID3/module.audio.ac3.php:                 $thisfile_ac3_raw_bsi['compre_flag2'] = (bool) $this->readHeaderBSI(1);
 wordpress/wp-includes/ID3/module.audio.ac3.php:                 if ($thisfile_ac3_raw_bsi['compre_flag2']) {
